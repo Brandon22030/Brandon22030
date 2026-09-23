@@ -69,4 +69,10 @@ Développement complet du site et du back-office d'un cabinet d'architecture - p
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Brandon22030&show_icons=true&theme=default&hide_border=true&title_color=4F7CFF&icon_color=4F7CFF)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brandon22030&theme=default&hide_border=true&ring=4F7CFF&fire=4F7CFF)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="Contributions GitHub en 3D" src="./profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
 </div>
