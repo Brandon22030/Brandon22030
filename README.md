@@ -4,7 +4,7 @@
 
 **Développeur web & logiciels · Cotonou, Bénin**
 
-Sites vitrines et back-offices sur mesure, livrés en semaines — pas en mois.
+Sites vitrines et back-offices sur mesure, livrés en semaines - pas en mois.
 
 [![BRANDYBEN](https://img.shields.io/badge/BRANDYBEN-brandyben.com-4F7CFF?style=flat-square)](https://brandyben.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-brandythedev.vercel.app-4F7CFF?style=flat-square)](https://brandythedev.vercel.app)
@@ -16,7 +16,7 @@ Sites vitrines et back-offices sur mesure, livrés en semaines — pas en mois.
 
 ## En bref
 
-Je dirige **BRANDYBEN**, une structure de développement web basée à Cotonou. Je conçois et développe des sites et applications sur mesure — le plus souvent pour des cabinets et PME en Afrique de l'Ouest — avec un back-office que le client prend en main lui-même, sans dépendre de moi pour chaque mise à jour.
+Je dirige **BRANDYBEN**, une structure de développement web basée à Cotonou. Je conçois et développe des sites et applications sur mesure - le plus souvent pour des cabinets et PME en Afrique de l'Ouest - avec un back-office que le client prend en main lui-même, sans dépendre de moi pour chaque mise à jour.
 
 - 🎓 5ᵉ année, développement informatique et de sites web
 - 🇧🇯 Basé à Cotonou, disponible à distance
@@ -24,7 +24,7 @@ Je dirige **BRANDYBEN**, une structure de développement web basée à Cotonou. 
 
 ## Actuellement
 
-Développement complet du site et du back-office d'un cabinet d'architecture — portfolio filtrable, carte interactive, gestion éditoriale (projets, actualités, équipe) sans écrire une ligne de code côté client.
+Développement complet du site et du back-office d'un cabinet d'architecture - portfolio filtrable, carte interactive, gestion éditoriale (projets, actualités, équipe) sans écrire une ligne de code côté client.
 <!-- Brandon : remplace par le nom du cabinet + le lien du site en ligne une fois confirmé avec le client. -->
 
 ## Stack
@@ -45,22 +45,22 @@ Développement complet du site et du back-office d'un cabinet d'architecture —
 
 ## Projets
 
-**Site et back-office d'un cabinet d'architecture** — Next.js, Supabase, carte interactive, gestion éditoriale complète.
+**Site et back-office d'un cabinet d'architecture** - Next.js, Supabase, carte interactive, gestion éditoriale complète.
 <!-- Brandon : remplace par le nom du cabinet + le lien du site en ligne une fois confirmé avec le client. -->
 
-**[moneroo-nodejs-sdk](https://github.com/Brandon22030/moneroo-nodejs-sdk)** — SDK Node.js/TypeScript non officiel pour l'API de paiement Moneroo (Afrique de l'Ouest).
+**[moneroo-nodejs-sdk](https://github.com/Brandon22030/moneroo-nodejs-sdk)** - SDK Node.js/TypeScript non officiel pour l'API de paiement Moneroo (Afrique de l'Ouest).
 
-**[Smart'Archi](https://portfolio-dave-gamma.vercel.app)** — Portfolio d'un dessinateur-projeteur bâtiment à Cotonou, spécialisé en visualisation 3D architecturale.
+**[Smart'Archi](https://portfolio-dave-gamma.vercel.app)** - Portfolio d'un dessinateur-projeteur bâtiment à Cotonou, spécialisé en visualisation 3D architecturale.
 
-**[SGAMA](https://github.com/Brandon22030/SGAMA)** — Système de gestion d'atelier mécanique automobile.
+**[SGAMA](https://github.com/Brandon22030/SGAMA)** - Système de gestion d'atelier mécanique automobile.
 
-**[Quizdeszeles](https://quizdeszeles.vercel.app)** — Plateforme de quiz bibliques en temps réel : création, partage par code, session live avec score et chronomètre.
+**[Quizdeszeles](https://quizdeszeles.vercel.app)** - Plateforme de quiz bibliques en temps réel : création, partage par code, session live avec score et chronomètre.
 
-**[Bénin Culture 360](https://github.com/Brandon22030/benin-culture-360)** — Application web interactive pour explorer et découvrir la culture béninoise.
+**[Bénin Culture 360](https://github.com/Brandon22030/benin-culture-360)** - Application web interactive pour explorer et découvrir la culture béninoise.
 
-**[Festivalis](https://github.com/Brandon22030/Festivalis)** — Plateforme d'événements communautaires pour le Bénin : cérémonies traditionnelles, mariages, événements culturels.
+**[Festivalis](https://github.com/Brandon22030/Festivalis)** - Plateforme d'événements communautaires pour le Bénin : cérémonies traditionnelles, mariages, événements culturels.
 
-**[supabase-keepalive](https://github.com/Brandon22030/supabase-keepalive)** — Service planifié qui maintient actifs des projets Supabase gratuits pour éviter leur mise en veille automatique.
+**[supabase-keepalive](https://github.com/Brandon22030/supabase-keepalive)** - Service planifié qui maintient actifs des projets Supabase gratuits pour éviter leur mise en veille automatique.
 
 ## Statistiques
 
