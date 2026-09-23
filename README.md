@@ -7,7 +7,7 @@
 Sites vitrines et back-offices sur mesure, livrés en semaines - pas en mois.
 
 [![BRANDYBEN](https://img.shields.io/badge/BRANDYBEN-brandyben.com-4F7CFF?style=flat-square)](https://brandyben.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://www.brandythedev.com-4F7CFF?style=flat-square)](https://www.brandythedev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brandythedev.com-4F7CFF?style=flat-square)](https://www.brandythedev.com)
 [![Email](https://img.shields.io/badge/Email-brandonmedehou2203%40gmail.com-4F7CFF?style=flat-square&logo=gmail&logoColor=white)](mailto:brandonmedehou2203@gmail.com)
 
 </div>
